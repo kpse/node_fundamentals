@@ -1,0 +1,20 @@
+{
+  "name": "node_fundamentals",
+  "version": "1.0.0",
+  "description": "https://egghead.io/lessons/node-js-the-node-js-process-object",
+  "main": "arguments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpse/node_fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpse/node_fundamentals/issues"
+  },
+  "homepage": "https://github.com/kpse/node_fundamentals#readme"
+}
