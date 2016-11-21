@@ -1,6 +1,6 @@
 {
   "name": "node_fundamentals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "https://egghead.io/lessons/node-js-the-node-js-process-object",
   "main": "index.js",
   "scripts": {
