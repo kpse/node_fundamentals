@@ -19,5 +19,9 @@
   "homepage": "https://github.com/kpse/node_fundamentals#readme",
   "dependencies": {
     "http": "0.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0"
   }
 }
