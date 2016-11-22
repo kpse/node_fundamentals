@@ -4,7 +4,7 @@
   "description": "https://egghead.io/lessons/node-js-the-node-js-process-object",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha test",
     "start": "node server.js"
   },
   "repository": {

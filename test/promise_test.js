@@ -15,6 +15,6 @@ describe('Function foo', ()=> {
   })
   it('should reject 1', () => {
     let promise = p.foo(1)
-    return expect(promise).to.be.rejected
+    return expect(promise).to.be.rejectedWith('1 is not accepted')
   })
 })
